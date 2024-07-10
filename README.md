@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ajaye2901@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RF9n7-8xEhQAkfH_Q57sgvmGZq920fb9/view?usp=sharing](https://drive.google.com/file/d/1RF9n7-8xEhQAkfH_Q57sgvmGZq920fb9/view?usp=sharing)
+- 📄 Know about my experiences [https://tinyurl.com/mr2z3evm](https://tinyurl.com/mr2z3evm)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
