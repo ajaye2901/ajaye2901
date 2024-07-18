@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django Rest Framework**
 
-- 👯 I’m looking to collaborate on **Python based projects**
+- 👯 I’m looking to collaborate on **Python-based projects**
 
 - 🤝 I’m looking for help with **AI**
 
