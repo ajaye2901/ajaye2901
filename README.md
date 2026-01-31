@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Marine-Ops <br>👯 I’m looking to collaborate on Python-based projects<br>🤝 I’m looking for help with AI<br>🌱 I’m currently learning FastAPI<br>💬 Ask me about Python, Django, Rest API, Astronomy<br>⚡ Fun fact I am a Developer :)
+🔭 I’m currently working at Fusie Engineers <br>👯 I’m looking to collaborate on Python-based projects<br>🤝 I’m looking for help with AI<br>🌱 I’m currently learning FastAPI<br>💬 Ask me about Python, Django, Rest API, Astronomy<br>⚡ Fun fact I am a Developer :)
 
 
 ## 🌐 Socials:
